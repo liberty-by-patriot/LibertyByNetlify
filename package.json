@@ -1,0 +1,14 @@
+{
+  "name": "Liberty",
+  "version": "1.0.0",
+  "description": "Liberty By Patriot",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'No build step required'"
+  },
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
